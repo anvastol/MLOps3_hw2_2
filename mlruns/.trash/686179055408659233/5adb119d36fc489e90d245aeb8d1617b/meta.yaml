@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/anvas/mlops_2_2/mlruns/686179055408659233/5adb119d36fc489e90d245aeb8d1617b/artifacts
+deleted_time: 1735894633998
+end_time: 1735843418435
+entry_point_name: ''
+experiment_id: '686179055408659233'
+lifecycle_stage: deleted
+run_id: 5adb119d36fc489e90d245aeb8d1617b
+run_name: merciful-crane-969
+run_uuid: 5adb119d36fc489e90d245aeb8d1617b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735843408607
+status: 3
+tags: []
+user_id: anvas

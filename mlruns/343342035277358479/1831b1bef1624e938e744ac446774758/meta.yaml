@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anvas/mlops_2_2/mlruns/343342035277358479/1831b1bef1624e938e744ac446774758/artifacts
+end_time: 1735895042747
+entry_point_name: ''
+experiment_id: '343342035277358479'
+lifecycle_stage: active
+run_id: 1831b1bef1624e938e744ac446774758
+run_name: local-model_2
+run_uuid: 1831b1bef1624e938e744ac446774758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735895032833
+status: 3
+tags: []
+user_id: anvas

@@ -1,0 +1,7 @@
+artifact_location: file:///C:/Users/anvas/mlops_2_2/mlruns/686179055408659233
+creation_time: 1735842027262
+experiment_id: '686179055408659233'
+last_update_time: 1735894633998
+lifecycle_stage: deleted
+name: iris_rf_experiment
+tags: {}
